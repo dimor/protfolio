@@ -124,6 +124,18 @@ h6 {
     background-repeat: no-repeat;
 }
 
+.about-profile{
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), url('images/profile.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+
+
+}
+
 
   /* Footer  */
 
