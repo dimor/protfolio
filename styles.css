@@ -97,6 +97,17 @@ h6 {
     
     }
 
+    .project_img4{
+      width: auto;
+      height: 30vh;
+      background: url('images/p4.png');
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      
+      
+      }
+
 .projects-bg{
     background:linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/projects.jpg');
     background-position: center;
